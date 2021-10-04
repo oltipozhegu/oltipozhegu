@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Olti Pozhegu
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python
+- 📫 Reach me on email: pozheguolti@gmail.com
